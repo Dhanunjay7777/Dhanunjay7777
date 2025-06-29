@@ -1,8 +1,8 @@
-<h1 align="center">🚀 Puttagunta Dhanunjay 🚀</h1>
-<h3 align="center">Full-Stack Developer | AI/ML Enthusiast | Cloud & DevOps Explorer</h3>
+<h1 align="center">🚀 Hi, I'm Puttagunta Dhanunjay 🚀</h1>
+<h3 align="center">Full Stack Developer | AI/ML Explorer | Cloud & Automation Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+%7C+AI/ML+%7C+Cloud+%7C+Automation;Transforming+Ideas+into+Scalable+Solutions;Lifelong+Learner+and+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+Development+%7C+AI%2FML+%7C+Cloud+Computing+%7C+Automation;Building+Scalable+and+Intelligent+Applications;Always+Learning+New+Technologies" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -11,62 +11,48 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🌟 About Me
 
-- 🎓 Pursuing **B.Tech in Computer Science**, `CGPA: 9.7/10`
-- 🛠️ Certified in `AWS`, `Azure`, `Salesforce AI`, `RedHat`, `RPA`
-- 💡 Specializing in `Full Stack Development`, `Cloud Solutions`, `AI/ML Applications`
-- 🏆 **4th Place** at NeoCodethon Coding Event | Active Member of University Coding Club
-- 🔥 Love building scalable, secure, and AI-powered software
+- 🎓 **B.Tech CSE**, CGPA: `9.7/10`  
+- 💡 Passion for `Full Stack`, `Cloud`, `AI/ML`, and `Automation`  
+- 🛠 Certified in `AWS`, `Azure`, `Salesforce AI`, `RedHat`, `RPA`  
+- 🏆 **4th Place** NeoCodethon | Member of University Coding Club  
+- 🔥 Turning complex problems into real-world scalable software  
 
 ---
 
-## ⚙️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,java,go,c,react,nodejs,spring,django,aws,azure,kubernetes,docker,tensorflow,mongodb,postgres,git,github,linux" />
 </p>
 
 ---
 
-## 🌟 Highlight Projects
+## 💼 Highlight Projects
 
-| 💼 Project Name                                | 🛠 Tech Stack                          | 🔗 Links                                                  |
-|------------------------------------------------|----------------------------------------|-----------------------------------------------------------|
-| AI Translater                                  | Flask, Deep Learning, AWS              | [Explore Repo](https://github.com/Dhanunjay7777)          |
-| Corporate Grievance Management System          | Java, JSF, MySQL                       | [View Project](https://github.com/Dhanunjay7777/EmployeeGrevance) |
-| Online Art Gallery                             | Spring Boot, JSP, Docker               | [View Project](https://github.com/Dhanunjay7777/ArtSpectrum) |
-| Tourism & Hospitality System                   | MERN Stack                             | [Explore Repo](https://github.com/Dhanunjay7777/Tourismpro) |
-| Astrology Prediction Portal                    | Django, ML, PostgreSQL                 | [Explore Repo](https://github.com/Dhanunjay7777/Astro)    |
+| 🚀 Project                                    | ⚡ Tech Stack                          | 🔗 Links                                                  |
+|-----------------------------------------------|----------------------------------------|-----------------------------------------------------------|
+| AI Translater                                 | Flask, Deep Learning, AWS              | [Explore Repo](https://github.com/Dhanunjay7777)          |
+| Corporate Grievance Management System         | Java, JSF, MySQL                       | [View Project](https://github.com/Dhanunjay7777/EmployeeGrevance) |
+| Online Art Gallery                            | Spring Boot, JSP, Docker               | [View Project](https://github.com/Dhanunjay7777/ArtSpectrum) |
+| Tourism & Hospitality System                  | MERN Stack                             | [Explore Repo](https://github.com/Dhanunjay7777/Tourismpro) |
+| Astrology Prediction Portal                   | Django, ML, PostgreSQL                 | [Explore Repo](https://github.com/Dhanunjay7777/Astro)    |
 
 ---
 
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhanunjay7777&show_icons=true&theme=react&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhanunjay7777&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dhanunjay7777&theme=react&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dhanunjay7777&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanunjay7777&layout=compact&theme=react&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanunjay7777&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -113,7 +99,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dhanunjay7777&theme=onedark&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Dhanunjay7777&theme=gruvbox&no-bg=true&margin-w=10" />
 </p>
 
 ---
