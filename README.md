@@ -31,15 +31,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanu123&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhanunjay7777&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dhanu123&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dhanunjay7777&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanu123&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanunjay7777&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -58,7 +58,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhanu123&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Dhanunjay7777&theme=radical" />
 </p>
 
 ---
