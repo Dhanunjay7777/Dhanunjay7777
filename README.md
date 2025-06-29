@@ -28,7 +28,6 @@
 
 ## 🚀 Featured Projects
 
-<p align="center">
 
   <a href="https://github.com/Dhanunjay7777">
     <img src="https://img.shields.io/badge/AI%20Translater-%20Flask%20|%20Deep%20Learning%20|%20AWS-%2336BCF7?style=for-the-badge" />
@@ -68,7 +67,7 @@
   <br>
   <i>AI-powered astrology predictions with an impressive 85% model accuracy</i>
 
-</p>
+
 
 ---
 
