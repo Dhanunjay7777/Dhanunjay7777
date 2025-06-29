@@ -5,9 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+Development+%7C+AI%2FML+%7C+Cloud+Computing+%7C+Automation;Building+Scalable+and+Intelligent+Applications;Always+Learning+New+Technologies" alt="Typing Animation" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dhanunjay7777&style=flat-square&color=blue" alt="Profile views" />
-</p>
 
 ---
 
