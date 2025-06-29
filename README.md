@@ -13,7 +13,7 @@
 - 🎓 **B.Tech CSE**, CGPA: `9.7/10`  
 - 💡 Passion for `Full Stack`, `Cloud`, `AI/ML`, and `Automation`  
 - 🛠 Certified in `AWS`, `Azure`, `Salesforce AI`, `RedHat`, `RPA`  
-- 🏆 **4th Place** NeoCodethon | Active University Coding Club Member  
+- 🏆 **4th Place** NeoCodethon 
 - 🔥 Love turning complex problems into real-world scalable software  
 
 ---
