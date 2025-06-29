@@ -13,8 +13,8 @@
 - 🎓 **B.Tech CSE**, CGPA: `9.7/10`  
 - 💡 Passion for `Full Stack`, `Cloud`, `AI/ML`, and `Automation`  
 - 🛠 Certified in `AWS`, `Azure`, `Salesforce AI`, `RedHat`, `RPA`  
-- 🏆 **4th Place** NeoCodethon | Member of University Coding Club  
-- 🔥 Turning complex problems into real-world scalable software  
+- 🏆 **4th Place** NeoCodethon | Active University Coding Club Member  
+- 🔥 Love turning complex problems into real-world scalable software  
 
 ---
 
@@ -26,15 +26,49 @@
 
 ---
 
-## 💼 Highlight Projects
+## 🚀 Featured Projects
 
-| 🚀 Project                                    | ⚡ Tech Stack                          | 🔗 Links                                                  |
-|-----------------------------------------------|----------------------------------------|-----------------------------------------------------------|
-| AI Translater                                 | Flask, Deep Learning, AWS              | [Explore Repo](https://github.com/Dhanunjay7777)          |
-| Corporate Grievance Management System         | Java, JSF, MySQL                       | [View Project](https://github.com/Dhanunjay7777/EmployeeGrevance) |
-| Online Art Gallery                            | Spring Boot, JSP, Docker               | [View Project](https://github.com/Dhanunjay7777/ArtSpectrum) |
-| Tourism & Hospitality System                  | MERN Stack                             | [Explore Repo](https://github.com/Dhanunjay7777/Tourismpro) |
-| Astrology Prediction Portal                   | Django, ML, PostgreSQL                 | [Explore Repo](https://github.com/Dhanunjay7777/Astro)    |
+<p align="center">
+
+  <a href="https://github.com/Dhanunjay7777">
+    <img src="https://img.shields.io/badge/AI%20Translater-%20Flask%20|%20Deep%20Learning%20|%20AWS-%2336BCF7?style=for-the-badge" />
+  </a>
+  <br>
+  <i>Real-time AI-driven Translation with AWS Kinesis & Deep Learning</i>
+  
+  <br><br>
+
+  <a href="https://github.com/Dhanunjay7777/EmployeeGrevance">
+    <img src="https://img.shields.io/badge/Corporate%20Grievance%20System-%20Java%20|%20JSF%20|%20MySQL-%2395D5B2?style=for-the-badge" />
+  </a>
+  <br>
+  <i>Automated grievance tracking for 500+ employees with interactive visualization</i>
+
+  <br><br>
+
+  <a href="https://github.com/Dhanunjay7777/ArtSpectrum">
+    <img src="https://img.shields.io/badge/Online%20Art%20Gallery-%20Spring%20Boot%20|%20JSP%20|%20Docker-%23FF8C00?style=for-the-badge" />
+  </a>
+  <br>
+  <i>Containerized Spring Boot platform for showcasing and managing artworks</i>
+
+  <br><br>
+
+  <a href="https://github.com/Dhanunjay7777/Tourismpro">
+    <img src="https://img.shields.io/badge/Tourism%20%26%20Hospitality-%20MERN%20Stack-%23F582AE?style=for-the-badge" />
+  </a>
+  <br>
+  <i>Role-based tourism platform with enhanced user management and 65% enrollment boost</i>
+
+  <br><br>
+
+  <a href="https://github.com/Dhanunjay7777/Astro">
+    <img src="https://img.shields.io/badge/Astrology%20Prediction%20Portal-%20Django%20|%20ML%20|%20PostgreSQL-%236A5ACD?style=for-the-badge" />
+  </a>
+  <br>
+  <i>AI-powered astrology predictions with an impressive 85% model accuracy</i>
+
+</p>
 
 ---
 
@@ -100,4 +134,3 @@
 </p>
 
 ---
-
