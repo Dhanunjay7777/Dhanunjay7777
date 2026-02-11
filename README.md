@@ -124,12 +124,4 @@
   </a>
 </p>
 
----
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dhanunjay7777&theme=gruvbox&no-bg=true&margin-w=10" />
-</p>
-
----
