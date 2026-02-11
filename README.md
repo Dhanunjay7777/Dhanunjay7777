@@ -1,127 +1,284 @@
-<h1 align="center">🚀 Hi, I'm Puttagunta Dhanunjay 🚀</h1>
-<h3 align="center">Full Stack Developer | AI/ML Explorer | Cloud & Automation Enthusiast</h3>
+<div align="center">
 
+<!-- Header with Animated Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Puttagunta%20Dhanunjay&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
+<!-- Animated Typing Text -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;AI%2FML+Engineer+%F0%9F%A4%96;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+</a>
+
+<!-- Professional Badges -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+Development+%7C+AI%2FML+%7C+Cloud+Computing+%7C+Automation;Building+Scalable+and+Intelligent+Applications;Always+Learning+New+Technologies" alt="Typing Animation" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/CGPA-9.7%2F10-success?style=for-the-badge&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white" />
 </p>
 
-
----
-
-## 🌟 About Me
-
-- 🎓 **B.Tech CSE**, CGPA: `9.7/10`  
-- 💡 Passion for `Full Stack`, `Cloud`, `AI/ML`, and `Automation`  
-- 🛠 Certified in `AWS`, `Azure`, `Salesforce AI`, `RedHat`, `RPA`  
-- 🏆 **4th Place** NeoCodethon 
-- 🔥 Love turning complex problems into real-world scalable software  
-
----
-
-## 🛠️ Tech Stack & Tools
-
+<!-- Social Media Links with Icons -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,go,c,react,nodejs,spring,django,aws,azure,kubernetes,docker,tensorflow,mongodb,postgres,git,github,linux" />
+  <a href="https://www.linkedin.com/in/puttagunta-dhanunjay-48241626a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:2200030719cseh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/Dhanunjay7777">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://leetcode.com/u/klu_2200030719/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```typescript
+const dhanunjay = {
+    education: "B.Tech CSE | CGPA: 9.7/10",
+    role: "Full Stack Developer & AI/ML Enthusiast",
+    location: "Vijayawada, India 🇮🇳",
+    interests: ["Cloud Computing", "AI/ML", "DevOps", "Automation"],
+    currentFocus: "Building scalable intelligent applications",
+    funFact: "I turn coffee into code ☕ → 💻"
+};
+```
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+### 🎯 What I Do
+
+- 🔭 Building **scalable full-stack applications**
+- 🌱 Exploring **AI/ML & Deep Learning**
+- ☁️ Working with **AWS & Azure Cloud**
+- 🚀 Automating workflows with **DevOps tools**
+- 🏆 **4th Place** at NeoCodethon
+- 📚 Constantly learning cutting-edge technologies
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
+
+### 🎨 Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+### ⚙️ Backend Development
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+### 🤖 AI/ML & Data Science
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
+<div align="center">
 
-  <a href="https://github.com/Dhanunjay7777">
-    <img src="https://img.shields.io/badge/AI%20Translater-%20Flask%20|%20Deep%20Learning%20|%20AWS-%2336BCF7?style=for-the-badge" />
-  </a>
-  <br>
-  <i>Real-time AI-driven Translation with AWS Kinesis & Deep Learning</i>
-  
-  <br><br>
+<table>
+<tr>
+<td width="50%">
 
-  <a href="https://github.com/Dhanunjay7777/EmployeeGrevance">
-    <img src="https://img.shields.io/badge/Corporate%20Grievance%20System-%20Java%20|%20JSF%20|%20MySQL-%2395D5B2?style=for-the-badge" />
-  </a>
-  <br>
-  <i>Automated grievance tracking for 500+ employees with interactive visualization</i>
+### 🌐 AI Translator
+[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/Dhanunjay7777)
 
-  <br><br>
+**Tech Stack:** `Flask` `Deep Learning` `AWS Kinesis`
 
-  <a href="https://github.com/Dhanunjay7777/ArtSpectrum">
-    <img src="https://img.shields.io/badge/Online%20Art%20Gallery-%20Spring%20Boot%20|%20JSP%20|%20Docker-%23FF8C00?style=for-the-badge" />
-  </a>
-  <br>
-  <i>Containerized Spring Boot platform for showcasing and managing artworks</i>
+Real-time AI-driven translation platform utilizing AWS cloud services and advanced deep learning models for seamless multilingual communication.
 
-  <br><br>
+**Key Features:**
+- ⚡ Real-time translation
+- ☁️ AWS integration
+- 🎯 High accuracy models
 
-  <a href="https://github.com/Dhanunjay7777/Tourismpro">
-    <img src="https://img.shields.io/badge/Tourism%20%26%20Hospitality-%20MERN%20Stack-%23F582AE?style=for-the-badge" />
-  </a>
-  <br>
-  <i>Role-based tourism platform with enhanced user management and 65% enrollment boost</i>
+</td>
+<td width="50%">
 
-  <br><br>
+### 🏢 Corporate Grievance System
+[![Repo](https://img.shields.io/badge/GitHub-Repository-green?style=flat-square&logo=github)](https://github.com/Dhanunjay7777/EmployeeGrevance)
 
-  <a href="https://github.com/Dhanunjay7777/Astro">
-    <img src="https://img.shields.io/badge/Astrology%20Prediction%20Portal-%20Django%20|%20ML%20|%20PostgreSQL-%236A5ACD?style=for-the-badge" />
-  </a>
-  <br>
-  <i>AI-powered astrology predictions with an impressive 85% model accuracy</i>
+**Tech Stack:** `Java` `JSF` `MySQL`
 
+Automated grievance tracking system serving 500+ employees with interactive visualization and efficient resolution workflows.
 
+**Key Features:**
+- 📊 Interactive dashboards
+- 🔔 Automated notifications
+- 📈 Analytics & reporting
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎨 Art Spectrum Gallery
+[![Repo](https://img.shields.io/badge/GitHub-Repository-orange?style=flat-square&logo=github)](https://github.com/Dhanunjay7777/ArtSpectrum)
+
+**Tech Stack:** `Spring Boot` `JSP` `Docker`
+
+Containerized platform for showcasing and managing artworks with seamless deployment and scalability.
+
+**Key Features:**
+- 🐳 Docker containerization
+- 🎨 Gallery management
+- 🔒 Secure authentication
+
+</td>
+<td width="50%">
+
+### ✈️ Tourism & Hospitality Platform
+[![Repo](https://img.shields.io/badge/GitHub-Repository-pink?style=flat-square&logo=github)](https://github.com/Dhanunjay7777/Tourismpro)
+
+**Tech Stack:** `MongoDB` `Express` `React` `Node.js`
+
+Full-stack MERN application with role-based access control, boosting user enrollment by 65%.
+
+**Key Features:**
+- 👥 Role-based access
+- 🗺️ Interactive UI
+- 📱 Responsive design
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" colspan="2">
+
+### 🔮 Astrology Prediction Portal
+[![Repo](https://img.shields.io/badge/GitHub-Repository-purple?style=flat-square&logo=github)](https://github.com/Dhanunjay7777/Astro)
+
+**Tech Stack:** `Django` `Machine Learning` `PostgreSQL`
+
+AI-powered astrology prediction system achieving 85% model accuracy with personalized insights and predictions.
+
+**Key Features:** ⭐ ML-based predictions | 📊 Data analytics | 🎯 85% accuracy | 💾 PostgreSQL backend
+
+</td>
+</tr>
+</table>
+
+</div>
+
+-
+## 🏅 Certifications & Achievements
+
+<div align="center">
+
+| Certification | Issuer | Badge |
+|--------------|--------|-------|
+| AWS Cloud Practitioner | Amazon Web Services | <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> |
+| Azure Fundamentals (AZ-900) | Microsoft | <img src="https://img.shields.io/badge/Azure-Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/> |
+| Red Hat Certified Developer | Red Hat | <img src="https://img.shields.io/badge/RedHat-Certified-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/> |
+| Salesforce AI Associate | Salesforce | <img src="https://img.shields.io/badge/Salesforce-AI%20Certified-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/> |
+| Automation Anywhere RPA | Automation Anywhere | <img src="https://img.shields.io/badge/RPA-Certified-FF6D00?style=for-the-badge&logo=automation&logoColor=white"/> |
+
+### 🏆 Achievements
+- 🥉 **4th Place** - NeoCodethon Competition
+- 📚 **CGPA: 9.7/10** - Academic Excellence
+- 💼 **500+ Employees** - Grievance System Impact
+
+</div>
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 💻 Coding Profiles & Competitive Programming
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhanunjay7777&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dhanunjay7777&theme=tokyonight&hide_border=true" />
-</p>
+<a href="https://leetcode.com/u/klu_2200030719/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+<a href="https://www.hackerrank.com/profile/klu_2200030719">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+</a>
+<a href="https://www.codechef.com/users/klu2200030719">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+</a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanunjay7777&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<!-- LeetCode Stats Card (if you have stats to show) -->
+<br/><br/>
+<img src="https://leetcard.jacoblin.cool/klu_2200030719?theme=dark&font=Ubuntu&ext=activity" alt="LeetCode Stats"/>
 
----
+</div>
 
-## 🏅 Certifications
 
-✔ AWS Cloud Practitioner  
-✔ Azure Fundamentals (AZ-900)  
-✔ RedHat Certified Developer  
-✔ Salesforce AI Associate & Specialist  
-✔ Automation Anywhere RPA  
 
----
 
-## 🌐 Connect with Me
+## 📫 Let's Connect!
 
-<p align="center">
+<div align="center">
+
+**I'm always open to interesting conversations and collaboration opportunities!**
+
+<p>
   <a href="https://www.linkedin.com/in/puttagunta-dhanunjay-48241626a/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:2200030719cseh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Drop%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+### 💡 Fun Fact
+> "Code is like humor. When you have to explain it, it's bad!" – Cory House
 
 ---
 
-## 💻 Coding Profiles
+<img src="https://komarev.com/ghpvc/?username=Dhanunjay7777&style=for-the-badge&color=3B82F6" alt="Profile Views"/>
 
-<p align="center">
-  <a href="https://leetcode.com/u/klu_2200030719/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/klu_2200030719">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-  <a href="https://www.codechef.com/users/klu2200030719">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
-
+</div>
