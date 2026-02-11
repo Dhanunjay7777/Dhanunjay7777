@@ -225,10 +225,6 @@ AI-powered astrology prediction system achieving 85% model accuracy with persona
 | Salesforce AI Associate | Salesforce | <img src="https://img.shields.io/badge/Salesforce-AI%20Certified-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/> |
 | Automation Anywhere RPA | Automation Anywhere | <img src="https://img.shields.io/badge/RPA-Certified-FF6D00?style=for-the-badge&logo=automation&logoColor=white"/> |
 
-### 🏆 Achievements
-- 🥉 **4th Place** - NeoCodethon Competition
-- 📚 **CGPA: 9.7/10** - Academic Excellence
-- 💼 **500+ Employees** - Grievance System Impact
 
 </div>
 
